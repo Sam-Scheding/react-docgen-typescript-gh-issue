@@ -1,0 +1,96 @@
+[
+  {
+    "tags": {},
+    "filePath": "src/TestComponent.tsx",
+    "description": "",
+    "displayName": "TestComponent",
+    "methods": [],
+    "props": {
+      "someProp": {
+        "defaultValue": null,
+        "description": "",
+        "name": "someProp",
+        "parent": {
+          "fileName": "src/TestComponent.tsx",
+          "name": "TestComponentProps"
+        },
+        "declarations": [
+          {
+            "fileName": "src/TestComponent.tsx",
+            "name": "TestComponentProps"
+          }
+        ],
+        "required": true,
+        "type": {
+          "name": "string"
+        }
+      }
+    }
+  },
+  {
+    "tags": {},
+    "filePath": "src/TestComponent.tsx",
+    "description": "",
+    "displayName": "FRTestComponent",
+    "methods": [],
+    "props": {
+      "someProp": {
+        "defaultValue": null,
+        "description": "",
+        "name": "someProp",
+        "parent": {
+          "fileName": "src/TestComponent.tsx",
+          "name": "TestComponentProps"
+        },
+        "declarations": [
+          {
+            "fileName": "src/TestComponent.tsx",
+            "name": "TestComponentProps"
+          }
+        ],
+        "required": true,
+        "type": {
+          "name": "string"
+        }
+      },
+      "ref": {
+        "defaultValue": null,
+        "description": "",
+        "name": "ref",
+        "parent": {
+          "fileName": "react-docgen-typescript-test/node_modules/@types/react/index.d.ts",
+          "name": "RefAttributes"
+        },
+        "declarations": [
+          {
+            "fileName": "react-docgen-typescript-test/node_modules/@types/react/index.d.ts",
+            "name": "RefAttributes"
+          }
+        ],
+        "required": false,
+        "type": {
+          "name": "Ref<HTMLBaseElement>"
+        }
+      },
+      "key": {
+        "defaultValue": null,
+        "description": "",
+        "name": "key",
+        "parent": {
+          "fileName": "react-docgen-typescript-test/node_modules/@types/react/index.d.ts",
+          "name": "Attributes"
+        },
+        "declarations": [
+          {
+            "fileName": "react-docgen-typescript-test/node_modules/@types/react/index.d.ts",
+            "name": "Attributes"
+          }
+        ],
+        "required": false,
+        "type": {
+          "name": "Key"
+        }
+      }
+    }
+  }
+]
